@@ -90,7 +90,7 @@ jupyter lab
   
   <li>
     
- Select either the scikit-learn.ipynb or quantum-computing.ipynb notebook from the menu on the left panel to view the notebooks. 
+ Select either the post-correspondence.ipynb or countdown.ipynb notebook from the menu on the left panel to view the notebooks. 
     
   </li> 
 </ol>
